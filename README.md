@@ -1,44 +1,64 @@
-# 👋 Olá, sou [Regina Duarte]!
+<div align="center">
 
-### Analista de QA Jr | Qualidade de Software | Testes Automatizados
+# 👋 Olá, sou Regina Duarte!
 
-Sou Analista de QA Jr, com formação técnica em Informática para Internet, licenciada em Letras e graduanda em Engenharia de Software.  
-Atuo com foco em **qualidade de software**, participando ativamente da escrita, execução e automação de cenários de testes, sempre buscando entregas confiáveis e bem estruturadas.
+### Analista de Qualidade de Software
 
-Tenho experiência em **testes manuais e automatizados**, participação em **times ágeis** e atuação em **ambientes DevOps**, colaborando para a melhoria contínua dos processos de QA.
+</div>
+
+---
+
+<div align="center">
+
+![GitHub followers](https://img.shields.io/github/followers/SEU_USUARIO?style=social)
+![GitHub stars](https://img.shields.io/github/stars/SEU_USUARIO?style=social)
+
+</div>
+
+---
+
+## 💡 Sobre mim
+Sou **Analista de QA**, com formação técnica em Informática para Internet, licenciada em Letras e graduanda em Engenharia de Software.  
+Atuo com foco em **qualidade de software**, participando da escrita, execução e automação de cenários de testes, sempre buscando entregas confiáveis e bem estruturadas.
+
+Tenho experiência com **testes manuais e automatizados**, atuação em **times ágeis** e **ambientes DevOps**, colaborando para a melhoria contínua dos processos de QA.
 
 ---
 
 ## 🧪 Qualidade e Testes
-- Fundamentos de QA e Qualidade de Software  
-- Escrita e execução de cenários de testes  
-- Testes Manuais e Automatizados  
-- Testes de Performance  
+✔ Fundamentos Qualidade de Software  
+✔ Escrita e execução de cenários de testes  
+✔ Testes Manuais e Automatizados  
+✔ Testes de Performance  
+✔ Testes de API 
 
 ---
 
-## ⚙️ Automação de Testes
-- Automação de Testes Web (Playwright, Cypress, Selenium WebDriver)  
-- Automação de Testes de API (Postman)  
-- BDD (Behavior Driven Development)  
+## ⚙️ Automação
+<p>
+<img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
 
 ---
 
-## 🚀 Metodologias e Processos
-- Metodologias Ágeis (Scrum)  
-- Participação em cerimônias: Planning, Daily, Review e Retrospective  
-- Atuação em ambientes DevOps  
-- Organização de tarefas, cenários de testes e evidências  
+## 🚀 Metodologias & Processos
+- Metodologias Ágeis (Scrum e Kanban)
+- Participação em Planning, Daily, Review e Retrospective
+- Atuação em ambientes DevOps
+- Organização de tarefas, cenários e evidências de testes
+- BDD (Gherkin)
 
 ---
 
 ## 🛠️ Ferramentas
-- Playwright  
-- Cypress  
-- Selenium WebDriver  
-- Postman  
-- Azure DevOps  
-- Git & GitHub  
+<p>
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-GitHub-black?style=for-the-badge&logo=git"/>
+</p>
 
 ---
 
@@ -55,13 +75,21 @@ Tenho experiência em **testes manuais e automatizados**, participação em **ti
 
 ---
 
-## 📌 Projetos em destaque
-- 🔗 **Testes Manuais** – Casos de teste, cenários e relatórios de bugs  
-- 🔗 **Automação de Testes Web** – Testes automatizados com Playwright/Cypress  
-- 🔗 **Testes de API** – Validação de endpoints REST  
-- 🔗 **CI com GitHub Actions** – Pipeline automatizado de testes  
+## 📌 Projetos em destaque 
+🔹 **Automação de Testes Web** – Playwright / Cypress  
+🔹 **Testes de API** – Validação de endpoints REST  
+🔹 **CI com GitHub Actions** – Pipeline automatizado de testes  
 
-_(em constante evolução)_
+_(repositórios em constante evolução)_
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default)
+
+</div>
 
 ---
 

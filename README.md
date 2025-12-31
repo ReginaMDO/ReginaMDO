@@ -2,6 +2,8 @@
 
 # 👋 Olá, sou Regina Duarte!
 
+</div>
+
 ---
 
 ## 💡 Sobre mim

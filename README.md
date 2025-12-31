@@ -2,10 +2,6 @@
 
 # 👋 Olá, sou Regina Duarte!
 
-### Analista de Engenharia de Qualidade
-
-</div>
-
 ---
 
 ## 💡 Sobre mim

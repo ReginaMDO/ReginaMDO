@@ -13,7 +13,7 @@
 ---
 
 ## 💡 Sobre mim
-Sou **Analista de Engenharia de Qualidade**, com formação técnica em Informática para Internet, licenciada em Letras e graduanda em Engenharia de Software. Tenho experiência com **testes manuais e automatizados**, atuação em **times ágeis** e **ambientes DevOps**, colaborando para a melhoria contínua dos processos de QA.
+Minha trajetória na área de tecnologia começou no desenvolvimento de software, área pela qual continuo tendo grande interesse e afinidade. Ao longo desse caminho, descobri na Qualidade de Software uma forma de unir programação, cuidado com processos e foco na experiência de quem utiliza o produto. Hoje atuo como Analista de Qualidade de Software, mantendo a proximidade com o código e valorizando a colaboração entre desenvolvimento e qualidade.
 
 ---
 

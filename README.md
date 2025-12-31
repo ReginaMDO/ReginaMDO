@@ -2,16 +2,14 @@
 
 # 👋 Olá, sou Regina Duarte!
 
-### Analista de Qualidade de Software
+### Analista de Engenharia de Qualidade
 
 </div>
 
 ---
 
 ## 💡 Sobre mim
-Sou **Analista de QA**, com formação técnica em Informática para Internet, licenciada em Letras e graduanda em Engenharia de Software.  
-Atuo com foco em **qualidade de software**, participando da escrita, execução e automação de cenários de testes, sempre buscando entregas confiáveis e bem estruturadas.
-
+Sou **Analista de Engenharia de Qualidade**, com formação técnica em Informática para Internet, licenciada em Letras e graduanda em Engenharia de Software.  
 Tenho experiência com **testes manuais e automatizados**, atuação em **times ágeis** e **ambientes DevOps**, colaborando para a melhoria contínua dos processos de QA.
 
 ---

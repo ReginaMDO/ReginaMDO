@@ -9,8 +9,7 @@
 ---
 
 ## 💡 Sobre mim
-Sou **Analista de Engenharia de Qualidade**, com formação técnica em Informática para Internet, licenciada em Letras e graduanda em Engenharia de Software.  
-Tenho experiência com **testes manuais e automatizados**, atuação em **times ágeis** e **ambientes DevOps**, colaborando para a melhoria contínua dos processos de QA.
+Sou **Analista de Engenharia de Qualidade**, com formação técnica em Informática para Internet, licenciada em Letras e graduanda em Engenharia de Software. Tenho experiência com **testes manuais e automatizados**, atuação em **times ágeis** e **ambientes DevOps**, colaborando para a melhoria contínua dos processos de QA.
 
 ---
 

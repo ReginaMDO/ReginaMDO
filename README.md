@@ -44,7 +44,7 @@ Tenho experiência com **testes manuais e automatizados**, atuação em **times 
 
 ---
 
-## 🛠️ Ferramentas Utilizadas no Dia a Dia de QA
+## 🛠️ Ferramentas
 <p>
 <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/>
@@ -66,15 +66,6 @@ Tenho experiência com **testes manuais e automatizados**, atuação em **times 
 ## 🤖 Inovação
 - Inteligência Artificial aplicada a Testes  
 - Interesse em tecnologias emergentes e melhoria contínua da qualidade  
-
----
-
-## 📌 Projetos em destaque 
-🔹 **Automação de Testes Web** – Playwright / Cypress  
-🔹 **Testes de API** – Validação de endpoints REST  
-🔹 **CI com GitHub Actions** – Pipeline automatizado de testes  
-
-_(repositórios em constante evolução)_
 
 ---
 
